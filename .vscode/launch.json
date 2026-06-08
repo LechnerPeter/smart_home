@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Project (Vulkan)",
+            "type": "godot",
+            "request": "launch",
+            "scene": "main",
+            "additionalOptions": "--rendering-driver vulkan"
+        },
+        {
+            "name": "Run Project (OpenGL)",
+            "type": "godot",
+            "request": "launch",
+            "scene": "main"
+        }
+    ]
+}

@@ -23,6 +23,7 @@ config/icon="res://icon.svg"
 
 window/size/viewport_width=2540
 window/size/viewport_height=1600
+window/size/initial_screen=1
 
 [rendering]
 

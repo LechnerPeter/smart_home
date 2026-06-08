@@ -6,6 +6,9 @@
 *.import
 *.uid
 
+# Secrets — never commit
+secrets.cfg
+
 # Temporary files
 *.tmp
 
