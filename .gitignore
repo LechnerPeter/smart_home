@@ -1,3 +1,28 @@
 # Godot 4+ specific ignores
 .godot/
+
+# Godot-specific ignores
+*.translation
+*.import
+*.uid
+
+# Temporary files
+*.tmp
+
+# Export presets (contains platform-specific paths, optional to track)
+# export_presets.cfg
+
+# Android specific
 /android/
+
+# iOS specific
+/ios/
+
+# Web export
+/web/
+
+# macOS specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
